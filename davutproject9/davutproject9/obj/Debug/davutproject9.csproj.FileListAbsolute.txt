@@ -1,0 +1,10 @@
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\bin\Debug\davutproject9.exe.config
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\bin\Debug\davutproject9.exe
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\bin\Debug\davutproject9.pdb
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.csproj.AssemblyReference.cache
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.Form1.resources
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.Properties.Resources.resources
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.csproj.GenerateResource.cache
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.csproj.CoreCompileInputs.cache
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.exe
+C:\Users\_lab2_pc7\source\repos\davutproject9\davutproject9\obj\Debug\davutproject9.pdb

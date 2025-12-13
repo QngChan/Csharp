@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "davutproject9", "davutproject9\davutproject9.csproj", "{09AE366A-1EF8-41D1-983A-2788ADFC2BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AE366A-1EF8-41D1-983A-2788ADFC2BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AE366A-1EF8-41D1-983A-2788ADFC2BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AE366A-1EF8-41D1-983A-2788ADFC2BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AE366A-1EF8-41D1-983A-2788ADFC2BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA082914-ECA9-48AE-B875-EF189E193F4F}
+	EndGlobalSection
+EndGlobal
