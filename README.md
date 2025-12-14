@@ -59,6 +59,34 @@ Her klasörde ilgili proje ve açıklamalarına ulaşabilirsin.
 
 ## 🛠️ Nasıl Kullanılır?
 
-1. Reposu klonla:
+1. Repoyu klonla:
    ```sh
    git clone https://github.com/QngChan/Csharp.git
+Visual Studio veya başka bir IDE ile aç.
+
+Proje klasörlerinden birini çalıştır.
+
+🎯 Öğrenme Hedeflerim
+
+Bu repo ile öğrenmeyi hedeflediklerim:
+
+📌 C# dil temelleri
+
+🧩 Nesne Yönelimli Programlama (OOP)
+
+🧠 Koleksiyonlar & LINQ
+
+🎛️ Dosya ve veri işlemleri
+
+🧪 Test etme ve debug yapma 🌱
+
+🤝 Katkıda Bulunma
+
+Çalışmalarımı beğendiysen ⭐ verebilir veya kod geliştirmeye katkıda bulunabilirsin!
+Her katkı benim için değerli 💙
+
+💬 İletişim
+
+Herhangi bir sorunun olursa benimle iletişime geçebilirsin:
+📧 E-posta: qngchan@proton.me
+🔗 GitHub: https://github.com/QngChan
